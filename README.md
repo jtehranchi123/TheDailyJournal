@@ -1,0 +1,4 @@
+- EJS
+- Bootstrap
+- Express
+- Node
